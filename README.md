@@ -1,2 +1,2 @@
-# HoneybPolice.github.io
-꿀벌서버 경찰청
+# cheesepolice.github.io
+치즈서버 경찰청
